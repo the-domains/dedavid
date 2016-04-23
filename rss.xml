@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[dedavid]]></title>
-        <description><![CDATA[dedavid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[de David]]></title>
+        <description><![CDATA[de David]]></description>
+        <link>https://thegrid.ai/dedavid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 12:52:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 13:05:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dedavid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[D]]></title>
-            <description><![CDATA[<article><h1>D</h1><h2>de David, </h2><p>to all of you that are reading this. If I only had the knowledge of what was to be posted on this page I would share it with you right away, but hey - just as with everything else in life - it is uncertain. So drop by every now and then, because, maybe something new has happened.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b4b802f-c01d-4e75-b6b1-7df6eaa171c7.png"></article>]]></description>
-            <link>undefinedd/index.html</link>
+            <description><![CDATA[<article><h1>D</h1><h2>de David, </h2><p>to all of you that are reading this. If I only had the knowledge of what was to be posted on this page I would share it with you right away, but hey - just as with everything else in life - it is uncertain. So drop by every now and then, because, maybe something new has happened.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b4b802f-c01d-4e75-b6b1-7df6eaa171c7.png"></article>]]></description>
+            <link>https://thegrid.ai/dedavid/d/index.html</link>
             <guid isPermaLink="false">23a6046f-195b-43cd-b239-d7ce2b10d0a8</guid>
-            <pubDate>Sat, 23 Apr 2016 12:52:18 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2016 13:04:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
