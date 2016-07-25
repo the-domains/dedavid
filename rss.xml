@@ -4,7 +4,7 @@
         <description><![CDATA[de David]]></description>
         <link>https://thegrid.ai/dedavid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 13:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 16:42:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dedavid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[D]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/dedavid/d/index.html</link>
             <guid isPermaLink="false">23a6046f-195b-43cd-b239-d7ce2b10d0a8</guid>
             <pubDate>Sat, 23 Apr 2016 13:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d09ff150-3d7e-495e-b8de-43bc7cc6588c.jpg">]]></description>
+            <link>https://thegrid.ai/dedavid/vivo-en-colombia/index.html</link>
+            <guid isPermaLink="false">75ad8b46-a3d5-4ab3-9842-f32d60e6f943</guid>
+            <pubDate>Mon, 25 Jul 2016 16:42:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
